@@ -6,3 +6,4 @@ Dataset: We used a dummy dataset to create the dashboard, which includes data on
 Dashboard features: Our personal finance dashboard built on Power BI includes the following features:
 
 Overview of monthly income and expenses, with a comparison to the previous month and a year ago. Breakdown of expenses by category, such as housing, transportation, and food. Analysis of investment performance, including a comparison to a benchmark index. Visualization of net worth over time, with an option to drill down into specific categories such as assets and liabilities. Forecasting of future income and expenses, with the ability to perform scenario analysis.
+![ss4](https://github.com/Swastik-2k/FinancialAnalysis/assets/79494966/6d55c20c-1fa6-4d63-822c-0b37d297ceb5)
